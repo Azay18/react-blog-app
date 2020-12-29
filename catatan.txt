@@ -1,0 +1,28 @@
+Step:
+- mkdir react-blog
+- cd react-blog
+- npm init (isi bagian author, sisanya enter aja)
+- code .
+
+(X)
+- ls -a -/.ssh
+- ssh-keygen -t ed25519 -C "muhammadrizqiaz@gmail.com"
+
+Bagian Terminal:
+- npm install express --save
+- node index.js (run code)
+- npm install mongoose@5.11.9 --save
+
+- git init
+- git status
+- git add .
+- git status
+- git commit -m "initial commit"
+- git status
+- git remote add origin https://github.com/Azay18/react-blog.git
+- git push -u origin main
+
+mongodb+srv://MuhammadRizqiAz:<password>@react-blog.dy9zc.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+abc12345
